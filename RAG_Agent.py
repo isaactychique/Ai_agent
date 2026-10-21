@@ -22,7 +22,7 @@ from langchain_community.vectorstores import Chroma
 import os 
 
 load_dotenv()
-GOOGLE_API_KEY="AIzaSyBI0hFu34XX609bRT4z3ulX0nxEZ5UsAaA"
+GOOGLE_API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 #google_api_key = os.getenv(GOOGLE_API_KEY)
 google_api_key = GOOGLE_API_KEY
 
@@ -222,7 +222,7 @@ if __name__ == "__main__" :
 #!pip install -U google-genai langchain-google-genai
 from google import genai
 
-client = genai.Client(api_key="AIzaSyBI0hFu34XX609bRT4z3ulX0nxEZ5UsAaA")
+client = genai.Client(api_key="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 
 models = client.models.list()
 
