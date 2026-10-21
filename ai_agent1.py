@@ -27,7 +27,7 @@ load_dotenv()
 # print(api_key)
 
 
-google_api_key = "AIzaSyBI0hFu34XX609bRT4z3ulX0nxEZ5UsAaA"
+google_api_key = "XXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # os.getenv("GOOGLE_API_KEY")
 # if not google_api_key:
