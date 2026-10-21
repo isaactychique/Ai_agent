@@ -51,7 +51,7 @@ def add(a: int , b: int):
 
 tools = [add]
 
-google_api_key = "AIzaSyBI0hFu34XX609bRT4z3ulX0nxEZ5UsAaA"
+google_api_key = "XXXXXXXXXXXXXXXXXXXXXx"
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash", 
